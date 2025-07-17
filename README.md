@@ -1,5 +1,5 @@
-**broseph-codes-portfolio DEMO:**
-https://okinda-joseph.github.io/broseph-codes-portfolio
+**Broseph-codes-portfolio DEMO:**
+https://okinda-joseph.github.io/Broseph-codes-portfolio
 
 # CURRENT PROJECT COMPLETED
 
