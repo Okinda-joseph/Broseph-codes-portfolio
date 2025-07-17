@@ -97,6 +97,7 @@ video {
 	margin: 0;
 	padding: 0;
 	border: 0;
+	font-family: "Poppins", sans-serif !important;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -2686,6 +2687,7 @@ input[type="radio"]:focus+label:before {
 	text-rendering: auto;
 	line-height: 1;
 	text-transform: none !important;
+	font-family: "Poppins", sans-serif !important;
 	font-family: 'Font Awesome 5 Free';
 	font-weight: 400;
 }
@@ -2926,6 +2928,7 @@ ul.icons {
 	cursor: default;
 	list-style: none;
 	padding-left: 0;
+	font-family: "Poppins", sans-serif !important;
 }
 
 ul.icons li {
@@ -2962,6 +2965,7 @@ ol {
 	list-style: decimal;
 	margin: 0 0 2rem 0;
 	padding-left: 1.25rem;
+	font-family: "Poppins", sans-serif !important;
 }
 
 ol li {
@@ -3142,6 +3146,7 @@ header.major .date:after {
 	background: linear-gradient(rgba(76, 141, 246, 0.9), rgba(76, 141, 246, 0.9)), url(../../images/milestone.jpg);
 	padding-top: 80px !important;
 	padding-bottom: 80px !important;
+	font-family: "Poppins", sans-serif !important;
 }
 
 #milestone .display-4,
@@ -3162,6 +3167,7 @@ header.major .date:after {
 
 .intro-service {
 	margin-bottom: 40px;
+	font-family: "Poppins", sans-serif !important;
 }
 
 .intro-service h5 {
@@ -3208,6 +3214,7 @@ header.major .date:after {
 
 .project-1 {
 	position: relative;
+	font-family: "Poppins", sans-serif !important;
 }
 
 .project-1 .overlay {
@@ -3278,6 +3285,7 @@ header.major .date:after {
 /* Projects */
 
 .urls {
+	font-family: "Poppins", sans-serif !important;
 	color: var(--bg-color) !important;
 }
 
@@ -3304,6 +3312,7 @@ header.major .date:after {
 .review {
 	max-width: 800px !important;
 	margin: auto;
+	font-family: "Poppins", sans-serif !important;
 }
 
 .review img {
@@ -3323,7 +3332,6 @@ header.major .date:after {
 /* blog  */
 
 
-
 .blog-post img {
 	width: 100% !important;
 	border-radius: 5px !important;
@@ -3335,6 +3343,7 @@ video {
 
 .blog-post h6 {
 	margin-top: 12px;
+	font-family: "Poppins", sans-serif !important;
 	color: var(--bs-dark) !important;
 	font-weight: 600 !important;
 	text-transform: capitalize !important;
@@ -3343,6 +3352,7 @@ video {
 
 .blog-post h4 a {
 	text-transform: capitalize;
+	font-family: "Poppins", sans-serif !important;
 	color: var(--bs-red-color) !important;
 	margin: 10px 0px;
 }
@@ -3352,11 +3362,13 @@ video {
 }
 
 .blog-main-data {
+	font-family: "Poppins", sans-serif !important;
 	text-align: center !important;
 	margin: auto !important;
 }
 
 .blog-data {
+	font-family: "Poppins", sans-serif !important;
 	color: var(--bg-color) !important;
 }
 
@@ -3371,6 +3383,7 @@ video {
 .table-wrapper {
 	-webkit-overflow-scrolling: touch;
 	overflow-x: auto;
+	font-family: "Poppins", sans-serif !important;
 }
 
 table {
@@ -3472,6 +3485,7 @@ table.alt tbody tr td {
 	-ms-transition: opacity 0.5s ease;
 	transition: opacity 0.5s ease;
 	position: relative;
+	font-family: "Poppins", sans-serif !important;
 	z-index: 1;
 	overflow: hidden;
 }
@@ -3533,6 +3547,7 @@ body.is-preload #wrapper.fade-in:before {
 
 #intro {
 	color: var(--bs-white) !important;
+	font-family: "Poppins", sans-serif !important;
 	padding: 8rem 4rem 6rem 4rem;
 	-moz-align-items: center;
 	-webkit-align-items: center;
@@ -3751,6 +3766,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 #header {
 	color: var(--bs-white) !important;
+	font-family: "Poppins", sans-serif !important;
 	-moz-align-items: center;
 	-webkit-align-items: center;
 	-ms-align-items: center;
@@ -3882,6 +3898,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 	transition: transform 1s ease, opacity 1s ease;
 	background: rgba(255, 255, 255, 0.175);
+	font-family: "Poppins", sans-serif !important;
 	height: 4rem;
 	line-height: 4rem;
 	margin: -4rem auto 0 auto;
@@ -4031,6 +4048,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 #main {
 	background-color: var(--bs-white) !important;
+	font-family: "Poppins", sans-serif !important;
 	position: relative;
 	margin: 0 auto;
 	width: calc(100% - 4rem);
@@ -4234,6 +4252,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	background-position: center !important;
 	background-repeat: no-repeat !important;
 	color: var(--bs-red-color) !important;
+	font-family: "Poppins", sans-serif !important;
 	cursor: default;
 	position: relative;
 	margin: 0 auto;
